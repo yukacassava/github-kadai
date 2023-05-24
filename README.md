@@ -1,7 +1,2 @@
-# tutorial
-# tutorial
-# tutorial
-# tutorial
-# tutorial
-# tutorial
-# hello-world
+サル先生のGitコマンド
+add 変更をインデックスに登録する
