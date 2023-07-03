@@ -6,3 +6,4 @@
 # test-of-merge
 # github-kadai
 # github-kadai
+# github-kadai
